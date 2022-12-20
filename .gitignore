@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these
+!.gitignore
+!/endurance/
+!endurance/CustomPluginVariables.JSON
+!endurance/endurance.JSON
+!endurance/Multiplayer.JSON
+!/player/
+!player/CustomPluginVariables.JSON
+!player/player.JSON
+!player/Multiplayer.JSON
+!/stockcar/
+!stockcar/CustomPluginVariables.JSON
+!stockcar/stockcar.JSON
+!stockcar/Multiplayer.JSON
