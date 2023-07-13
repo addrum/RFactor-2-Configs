@@ -3,6 +3,10 @@
 
 # But not these
 !.gitignore
+!/btcc/
+!btcc/CustomPluginVariables.JSON
+!btcc/btcc.JSON
+!btcc/Multiplayer.JSON
 !/endurance/
 !endurance/CustomPluginVariables.JSON
 !endurance/endurance.JSON
@@ -15,7 +19,9 @@
 !stockcar/CustomPluginVariables.JSON
 !stockcar/stockcar.JSON
 !stockcar/Multiplayer.JSON
-!download_rf2_workshop.bat
-!move_rf2_workshop_items_overwrite.bat
-!move_rf2_workshop_items.bat
-!rf2_mods.txt
+!/support/
+!support/CustomPluginVariables.JSON
+!support/support.JSON
+!support/Multiplayer.JSON
+!/rfactor 2 (Scripts and Mod Files)
+rfactor 2 (Scripts and Mod Files)/download_rf2_workshop.bat
