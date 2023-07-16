@@ -736,7 +736,7 @@
     "MULTI RaceTimeScale":1,
     "MULTI Reconnaissance":0,
     "MULTI Safety Car Collidable":false,
-    "MULTI Safety Car Thresh":3,
+    "MULTI Safety Car Thresh":1.2,
     "MULTI TimeScaledWeather":true,
     "MULTI Track Limits Points Allowed":5,
     "MULTI Track Limits Rules":1,
