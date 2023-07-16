@@ -675,7 +675,7 @@
     "CURNT RaceTimeScale":1,
     "CURNT Reconnaissance":0,
     "CURNT Safety Car Collidable":false,
-    "CURNT Safety Car Thresh":3,
+    "CURNT Safety Car Thresh":1.2,
     "CURNT TimeScaledWeather":true,
     "CURNT Track Limits Points Allowed":5,
     "CURNT Track Limits Rules":1,
