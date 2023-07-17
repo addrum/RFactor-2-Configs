@@ -113,7 +113,7 @@
     "AI Formation by Position#":"If true, AI will line up for yellow or formation laps by fixed position behind the pace car, if false they will line up relative to specific car they should be following",
     "AI Fuel Mult":0.95,
     "AI Fuel Mult#":"Additional fuel multiplier for AIs because of their driving style",
-    "AI Limiter":0.2,
+    "AI Limiter":0.8,
     "AI Limiter#":"Range: 0.0 (no limiting) - 1.0 (limiting used to make racing closer but also make more driver differences on flat-out tracks)",
     "AI Logic Override":0,
     "AI Logic Override#":"use bitfields to disable certain AI behaviors. 1= blocking line, 2 = flexible superspeedway driving line",
@@ -789,14 +789,14 @@
     "WarmupStartingTime#":"-3=random, -2=random daytime, -1=default RFM, 0-1439=minutes after midnight"
   },
   "SCENE":{
-    "AI Database File":"C:\\Users\\Adam\\Desktop\\rfactor2-dedicated\\Installed\\Locations\\BrandsHatch_2021\\1.05\\BRANDSHATCHGP_2021.AIW",
+    "AI Database File":"C:\\Users\\Adam\\Desktop\\rfactor2-dedicated\\Installed\\Locations\\Oulton_Park_Circuit_2015\\1.5\\OULTONPARK_ISL.AIW",
     "Options Component":"rFactor2 UI",
     "Options Dir":"",
     "Options File":"UI.OSC",
     "Options Version":"1.0",
-    "Scene Description":"BRANDSHATCHGP_2021",
-    "Scene File":"C:\\Users\\Adam\\Desktop\\rfactor2-dedicated\\Installed\\Locations\\BrandsHatch_2021\\1.05\\BRANDSHATCHGP_2021.SCN",
-    "Scene Signature":"ae9491654d36a3746fe6a919a5eb5e46a3777aa2c11bbe2f15c29ee56d228aab"
+    "Scene Description":"OULTONPARK_ISL",
+    "Scene File":"C:\\Users\\Adam\\Desktop\\rfactor2-dedicated\\Installed\\Locations\\Oulton_Park_Circuit_2015\\1.5\\OULTONPARK_ISL.SCN",
+    "Scene Signature":"84585836b6bc69344d95d6a4948e1a63191869db92ae01072a4090cf691b9d31"
   },
   "Sound Options":{
     "Buffer Count":25,
