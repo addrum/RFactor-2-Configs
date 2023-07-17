@@ -120,7 +120,7 @@
     "Allowed Steering Help#":"max level 0-3",
     "Allowed Traction Control":3,
     "Allowed Traction Control#":"max level 0-3",
-    "Allowed Vis Fast Line":1,
+    "Allowed Vis Fast Line":0,
     "Allowed Vis Fast Line#":"max level 0-1",
     "Assign Parking":true,
     "Assign Parking#":"alternate method of assigning pit\/garage spots so they don't change during the weekend (with the possible exception of when qualifying order dictates pit order for race)",
