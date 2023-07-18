@@ -100,7 +100,7 @@
     "Vis Fast Line#":"Displays a visualization of the driving line."
   },
   "Game Options":{
-    "AI Aggression":1,
+    "AI Aggression":0.8,
     "AI Brake_Grip Usage":0.9725,
     "AI Brake_Grip Usage#":"Fraction of theoretical brake grip that AI attempt to use (can be overrode in HDV)",
     "AI Brake_Power Usage":0.98,
@@ -174,7 +174,7 @@
     "CHAMP Race Time":120,
     "CHAMP Speed Compensation":0,
     "CHAMP Tire Wear Multiplier":1,
-    "CURNT AI Driver Strength":100,
+    "CURNT AI Driver Strength":103,
     "CURNT Allowed Vehicles":"|BTCC_2021|BTCC_2022|BTCC_2023|BTCC_BMW_330_2021|BTCC_Cupra_Leon_2021|BTCC_Cupra_Leon_2023|BTCC_Ford_Focus_2021|BTCC_Ford_Focus_2023|BTCC_Honda_Civic_2021|BTCC_Honda_Civic_2023|BTCC_Hyundai_i30_2021|BTCC_Hyundai_i30_2023|BTCC_Infiniti_Q50_2021|BTCC_Infiniti_Q50_2022|BTCC_Toyota_Corolla_2021|BTCC_Toyota_Corolla_2023|BTCC_Vauxhall_Astra_2021|BTCC_Vauxhall_Astra_2023",
     "CURNT CrashRecovery":3,
     "CURNT Damage Multiplier":65,
@@ -242,7 +242,7 @@
     "Instant Replay Length":20,
     "Keep Received Setups":3,
     "Keep Received Setups#":"0=do not accept, 1=keep until next track, 2=keep until exit, 3=keep forever",
-    "MULTI AI Driver Strength":100,
+    "MULTI AI Driver Strength":103,
     "MULTI Allowed Vehicles":"|BTCC_2021|BTCC_2022|BTCC_2023|BTCC_BMW_330_2021|BTCC_Cupra_Leon_2021|BTCC_Cupra_Leon_2023|BTCC_Ford_Focus_2021|BTCC_Ford_Focus_2023|BTCC_Honda_Civic_2021|BTCC_Honda_Civic_2023|BTCC_Hyundai_i30_2021|BTCC_Hyundai_i30_2023|BTCC_Infiniti_Q50_2021|BTCC_Infiniti_Q50_2022|BTCC_Toyota_Corolla_2021|BTCC_Toyota_Corolla_2023|BTCC_Vauxhall_Astra_2021|BTCC_Vauxhall_Astra_2023",
     "MULTI CrashRecovery":3,
     "MULTI Damage Multiplier":65,
