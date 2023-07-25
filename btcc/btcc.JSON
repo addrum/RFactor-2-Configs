@@ -100,7 +100,7 @@
     "Vis Fast Line#":"Displays a visualization of the driving line."
   },
   "Game Options":{
-    "AI Aggression":0.8,
+    "AI Aggression":0.6,
     "AI Brake_Grip Usage":0.9725,
     "AI Brake_Grip Usage#":"Fraction of theoretical brake grip that AI attempt to use (can be overrode in HDV)",
     "AI Brake_Power Usage":0.98,
@@ -113,11 +113,11 @@
     "AI Formation by Position#":"If true, AI will line up for yellow or formation laps by fixed position behind the pace car, if false they will line up relative to specific car they should be following",
     "AI Fuel Mult":0.95,
     "AI Fuel Mult#":"Additional fuel multiplier for AIs because of their driving style",
-    "AI Limiter":0.8,
+    "AI Limiter":0.0,
     "AI Limiter#":"Range: 0.0 (no limiting) - 1.0 (limiting used to make racing closer but also make more driver differences on flat-out tracks)",
     "AI Logic Override":0,
     "AI Logic Override#":"use bitfields to disable certain AI behaviors. 1= blocking line, 2 = flexible superspeedway driving line",
-    "AI Mistakes":1,
+    "AI Mistakes":1.2,
     "AI Mistakes#":"a range of (intentional) AI mistakes from 0.0 (none) to 1.0 (sometimes).  Anything above 1.0 multiplies the frequency",
     "AI Power Calibration":7,
     "AI Power Calibration#":"Adjustments with AI strength (0=none, or add the following: 1=power, 2=gearing, 4=fuel)",
