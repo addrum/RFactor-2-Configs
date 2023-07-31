@@ -113,7 +113,7 @@
     "AI Formation by Position#":"If true, AI will line up for yellow or formation laps by fixed position behind the pace car, if false they will line up relative to specific car they should be following",
     "AI Fuel Mult":0.95,
     "AI Fuel Mult#":"Additional fuel multiplier for AIs because of their driving style",
-    "AI Limiter":0.0,
+    "AI Limiter":0,
     "AI Limiter#":"Range: 0.0 (no limiting) - 1.0 (limiting used to make racing closer but also make more driver differences on flat-out tracks)",
     "AI Logic Override":0,
     "AI Logic Override#":"use bitfields to disable certain AI behaviors. 1= blocking line, 2 = flexible superspeedway driving line",
