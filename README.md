@@ -11,6 +11,9 @@ e.g. if there's 10 cars available for a Ferrari GTE, only select 4 of them so wh
 ## Paid Content Not Installing on Server (Mod Manager)
 Copy the ServerUnlock.bin from the client to the server after running the client once after each new purchase.
 
+## Paid Content Updates
+To see updates for installed paid content in Mod Manager, you'll need to regenerate the ServerUnlock file and copy back to the server (may or may not need to recopy the ServerKeys file to the client machine first).
+
 # Useful Links
 ## Links
 * Race event setup: https://steamcommunity.com/sharedfiles/filedetails/?id=554544322
