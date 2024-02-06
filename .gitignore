@@ -23,6 +23,10 @@
 !support/CustomPluginVariables.JSON
 !support/support.JSON
 !support/Multiplayer.JSON
+!/kart/
+!kart/CustomPluginVariables.JSON
+!kart/kart.JSON
+!kart/Multiplayer.JSON
 !/rfactor 2 (Scripts and Mod Files)/
 !/rfactor 2 (Scripts and Mod Files)/*
 rfactor 2 (Scripts and Mod Files)/download_rf2_workshop.bat
