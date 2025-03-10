@@ -100,7 +100,7 @@
     "Vis Fast Line#":"Displays a visualization of the driving line."
   },
   "Game Options":{
-    "AI Aggression":0.6,
+    "AI Aggression":0.4,
     "AI Brake_Grip Usage":0.9725,
     "AI Brake_Grip Usage#":"Fraction of theoretical brake grip that AI attempt to use (can be overrode in HDV)",
     "AI Brake_Power Usage":0.98,
