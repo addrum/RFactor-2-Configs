@@ -193,7 +193,7 @@
     "Qualifying Laps#":"0 = use default from GDB, otherwise this is # of laps allowed in qualifying",
     "Qualifying Time":30,
     "Qualifying Time#":"0 = use default from GDB, otherwise this is # of minutes for qualifying (1-10 by 1, 15-90 by 5, 105-165 by 15)",
-    "Race Client Wait":60,
+    "Race Client Wait":30,
     "Race Client Wait#":"Seconds to wait at the beginning of a race session for clients to get ready and go to grid",
     "Race Rejoin":3,
     "Race Rejoin#":"Whether disconnected players can rejoin a race session: 0=no 1=yes with fresh vehicle 2=yes with vehicle in same physical condition 3=yes including setup",
